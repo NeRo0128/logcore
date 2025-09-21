@@ -1,6 +1,6 @@
 package logcore
 
-import "Repositories/logcore/logger"
+import "logcore/logger"
 
 var defaultLogger = logger.NewLogger()
 
