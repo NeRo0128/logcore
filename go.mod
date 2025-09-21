@@ -1,4 +1,4 @@
-module Repositories
+module logcore
 
 go 1.24.0
 
